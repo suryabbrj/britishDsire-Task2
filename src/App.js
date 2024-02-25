@@ -20,11 +20,11 @@ function App() {
 				<Routes>
 					<Route path="/" element={<Home />} />
 					<Route
-						path="/create"
+						path="/Create"
 						element={<Create />}
 					/>
 					<Route
-						path="/edit"
+						path="/Edit"
 						element={<Edit />}
 					/>
 				</Routes>

@@ -27,7 +27,7 @@ function Create() {
 		// pushing to javascript object
 		let a = name,
 			b = age;
-		if (name == "" || age == "") {
+		if (name === "" || age === "") {
 			alert("invalid input");
 			return;
 		}
