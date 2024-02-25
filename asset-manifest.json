@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/britishDsire-Task2/static/css/main.4d33bbe3.css",
+    "main.js": "/britishDsire-Task2/static/js/main.c7d8ce53.js",
+    "static/js/453.b5b22ff8.chunk.js": "/britishDsire-Task2/static/js/453.b5b22ff8.chunk.js",
+    "index.html": "/britishDsire-Task2/index.html",
+    "main.4d33bbe3.css.map": "/britishDsire-Task2/static/css/main.4d33bbe3.css.map",
+    "main.c7d8ce53.js.map": "/britishDsire-Task2/static/js/main.c7d8ce53.js.map",
+    "453.b5b22ff8.chunk.js.map": "/britishDsire-Task2/static/js/453.b5b22ff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d33bbe3.css",
+    "static/js/main.c7d8ce53.js"
+  ]
+}
